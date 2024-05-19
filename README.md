@@ -9,7 +9,7 @@ React <br />
 ExpressJS <br />
 ThreeJS <br />
 
-[Watch the demo video](https://www.youtube.com/watch?v=9SV2BtVdaNE))
+[Watch the demo video](https://www.youtube.com/watch?v=9SV2BtVdaNE)
 
 
 
